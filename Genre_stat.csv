@@ -1,0 +1,13 @@
+Genre,count,best_game_name,best_game_sales,total_sales
+Action,407,['Grand Theft Auto V'],[21.4],1051.93
+Sports,291,['Wii Sports'],[82.74],779.64
+Shooter,245,['Duck Hunt'],[28.31],764.22
+Platform,187,['Super Mario Bros.'],[40.24],647.58
+Role-Playing,200,['Pokemon Red/Pokemon Blue'],[31.37],633.89
+Racing,171,['Mario Kart Wii'],[35.82],475.31000000000006
+Misc,165,['Wii Play'],[29.02],471.84999999999997
+Fighting,120,['Super Smash Bros. Brawl'],[13.04],269.21
+Simulation,89,['Nintendogs'],[24.76],223.62
+Puzzle,52,['Tetris'],[30.26],154.09000000000003
+Adventure,42,['Super Mario Land 2: 6 Golden Coins'],[11.18],92.97999999999999
+Strategy,31,['Pokemon Stadium'],[5.45],65.91000000000001
